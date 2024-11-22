@@ -12,7 +12,7 @@ https://github.com/spawar2/BTEC-620-Spring-2023/blob/main/Phylogenetic-Analysis.
 
 [Regression:](https://youtu.be/LrSDfwwnbKY)
 https://github.com/spawar2/STAT302/blob/main/Mar-9.Rd
-
+[Semester class review:](https://youtu.be/Pju8ecWWRAw)
 [Github:](https://github.com/spawar2/Data-Science-Fall2022)
 
 Data Science (4 credit) Spring 2023 (10 students) **Undergraduate Class & Lab: https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
