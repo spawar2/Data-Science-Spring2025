@@ -6,6 +6,7 @@ Date created/updated: December, 9, 2024.
 Data Science:
 [R: ggpubr, tidyverse, datarium, dplyr].
 [Machine Learning:](https://youtu.be/Pju8ecWWRAw)
+![download](https://github.com/user-attachments/assets/8da63d9a-6382-41bb-b57f-e6dcbe82ec05)
 
 [Tree Based Models:](https://youtu.be/FOtl6qM_nX0)
 https://github.com/spawar2/BTEC-620-Spring-2023/blob/main/Phylogenetic-Analysis.R
